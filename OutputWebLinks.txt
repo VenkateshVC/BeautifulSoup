@@ -1,0 +1,9 @@
+Accessing the HREF Links from http://www.cnn.com
+********************************************************************************
+https://money.cnn.com/data/markets/
+https://www.turnerjobs.com/search-jobs?orgIds=1174&amp;ac=19299
+https://money.cnn.com/data/markets/
+https://www.turnerjobs.com/search-jobs?orgIds=1174&amp;ac=19299
+https://commercial.cnn.com
+https://www.cnn.com/sitemap.html
+********************************************************************************
